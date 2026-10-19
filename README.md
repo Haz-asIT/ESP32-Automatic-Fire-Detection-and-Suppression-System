@@ -80,3 +80,9 @@ ESP32-Flame-Detection-Water-Pump/
 - This is a **learning/prototyping project**, not a certified fire detection or fire suppression system. Do not rely on it for life safety.
 - A relay and pump involve electrical and mechanical risks. Use suitable protective circuitry, wiring and power supplies. Avoid working with mains voltages without qualified supervision.
 - Hardware behavior has **not been independently tested** as part of this repository preparation.
+
+- ## Circuit Diagram
+![Circuit Diagram](images/circuit-diagram.png)
+
+## Physical Prototype
+![Physical Prototype](images/prototype-setup.jpg)
